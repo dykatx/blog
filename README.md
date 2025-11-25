@@ -135,12 +135,10 @@ Inspired by modern portfolio designs and the cybersecurity community. Built with
 
 ------------------------------------------------------------------------------------------------------------------------
 
-Dykat
+Dykat (dykatx)
 
 Aspiring Cloud Security Architect  
 
 DevSecOps • IaC Hardening • Identity & Access Security
-
-dykatx • github.com/dykatx
 
 ------------------------------------------------------------------------------------------------------------------------
