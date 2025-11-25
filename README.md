@@ -106,7 +106,7 @@ Each log entry includes:
 
 - **Email**: dhayalankcys007@gmail.com
 - **GitHub**: [@dykat](https://github.com/dykat)
-- **Website**: [dy4k7.github.io](https://dykat.github.io)
+- **Website**: [dykat.github.io](https://dykat.github.io)
 
 ## 🎯 Future Enhancements
 
